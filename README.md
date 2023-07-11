@@ -15,8 +15,6 @@ The USGS is interested in building a new set of tools that will allow them to vi
  
  
   ## Leaflet-Part-2 - Gather and Plot more data
-Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualise it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplatesLinks to an external site..
-
 This part is completely optional.
 
 # References
